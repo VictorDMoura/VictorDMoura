@@ -24,6 +24,7 @@ class Victor extends Human {
 
   technologies: {
     JavaScript: ["React.js", "Node.js"];
+    Java: ["Spring Boot", "JDBC"]
     Python: ["Django", "Flask"];
     GoLang: [];
     APIs: ["REST"];
