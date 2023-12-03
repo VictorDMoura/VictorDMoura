@@ -34,4 +34,4 @@ class Victor extends Human {
 }
 ```
 
-`💬 Ask me about anything written using JavaScript and Python`
+`💬 Ask me about anything written using JavaScript and Java`
