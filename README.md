@@ -1,37 +1,51 @@
-# Victor de Moura
+### 👋 Olá! Eu sou o Victor Moura
 
-[![Linkedin](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-andrade-fullstack-dev/)](https://www.linkedin.com/in/victordmouraal/)
-[![Mail Me!](https://img.shields.io/badge/-Contact%20Me!-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthur.diegoo@hotmail.com)](mailto:mouramvictor@gmail.com)
+💻 **Desenvolvedor Backend** apaixonado por criar soluções eficientes e escaláveis. Tenho experiência no desenvolvimento de **APIs REST, modelagem de banco de dados e arquitetura de software** utilizando tecnologias como **Java (Spring Boot), Go, PostgreSQL, Docker e AWS**.
 
-### Back-end Software Developer
+---
 
-<img src="https://media3.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47mppfcwtj11xk1p3qefgiywl2k75eu0yquetepybk&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100" height="100" />
+### 🚀 Sobre Mim
+- 🔹 **Atualmente trabalho na SergipeTec**, desenvolvendo APIs, modelando bancos de dados e otimizando sistemas.
+- 🔹 **Experiência com Java, Go e Node.js**, criando aplicações robustas e escaláveis.
+- 🔹 **Conhecimento em AWS e Docker**, facilitando deploys e infraestrutura de aplicações.
+- 🔹 **Entusiasta de boas práticas**, arquitetura limpa e metodologias ágeis (Scrum e Kanban).
+- 🔹 **Professor voluntário e monitor**, gosto de compartilhar conhecimento e ajudar outros desenvolvedores.
 
-## 🌀 A little more about me:
+---
 
-```typescript
-class Victor extends Human {
-  name: string;
-  nationality: string;
+### 🛠️ Tecnologias & Ferramentas  
+💻 **Linguagens & Frameworks**  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-  constructor() {
-    super();
-    this.name = "Victor de Moura";
-    this.nationality = "Brazilian";
-  }
+🗄 **Banco de Dados**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-  languages: Array<string> = ["Portuguese", "English", "Spanish"];
+☁ **Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-  technologies: {
-    Java: ["Spring Boot"]
-    JavaScript: ["Node.js", "TypeScript", "Fastify"];
-    GoLang: [];
-    Python: ["Django", "Flask"];
-    APIs: ["REST"];
-    Design: ["Bootstrap", "Tailwind CSS"];
-    CloudComputing: ["AWS", "Docker"];
-  };
-}
-```
+📌 **Ferramentas & Metodologias**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
-`💬 Ask me about anything written using JavaScript and Java`
+---
+
+### 📊 Estatísticas  
+![Victor Moura's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorDMoura&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorDMoura&layout=compact&theme=dark)
+
+---
+
+### 📫 Contato  
+📩 **E-mail:** [seu-email@email.com](mailto:seu-email@email.com)  
+🔗 **LinkedIn:** [linkedin.com/in/victordmouraal](https://www.linkedin.com/in/victordmouraal/)  
+💻 **Portfólio:** [seu-portfólio.com](#) (Caso tenha um)  
+
+---
+
+🎯 **"A tecnologia move o mundo, e eu quero fazer parte dessa transformação."** 🚀  
