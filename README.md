@@ -42,10 +42,8 @@
 ---
 
 ### 📫 Contato  
-📩 **E-mail:** [seu-email@email.com](mailto:seu-email@email.com)  
-🔗 **LinkedIn:** [linkedin.com/in/victordmouraal](https://www.linkedin.com/in/victordmouraal/)  
-💻 **Portfólio:** [seu-portfólio.com](#) (Caso tenha um)  
-
+📩 **E-mail:** [mouramvictor@gmail.com](mailto:mouramvictor@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/victordmouraal](https://www.linkedin.com/in/victordmouraal/) 
 ---
 
 🎯 **"A tecnologia move o mundo, e eu quero fazer parte dessa transformação."** 🚀  
